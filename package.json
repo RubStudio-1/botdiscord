@@ -1,0 +1,12 @@
+{
+  "name": "0.1.0",
+  "version": "0.1.0",
+  "description": "projet bot coc",
+  "main": "main.js",
+  "repository": "https://github.com/RubStudio-1/botdiscord.git",
+  "author": "ruben <beyer.ruben12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
