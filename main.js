@@ -2123,4 +2123,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('NjU3MjkzOTI2NzMwMDM5MzA2.XkxGOA.M0ZpyTFlzasAxvPqeai2ZOJX9x8');
+client.login('Me Mp sur discord');
